@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Oct  2 16:03:48 2018
-
-@author: soumyadipghosh
-"""
 
 """
 1. Put in Bounding box 
